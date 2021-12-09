@@ -1,1 +1,0 @@
-(this.webpackJsonptunis=this.webpackJsonptunis||[]).push([[21],{50:function(t,s,i){"use strict";i.r(s),s.default=i.p+"static/media/project-9.75032bd9.jpg"}}]);

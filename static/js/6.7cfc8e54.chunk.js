@@ -1,0 +1,1 @@
+(this.webpackJsonptunis=this.webpackJsonptunis||[]).push([[6],{34:function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/media/blog-post-3.e60d1967.jpg"}}]);
